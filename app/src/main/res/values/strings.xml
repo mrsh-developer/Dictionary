@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_dictionary">My Dictionary</string>
+    <string name="settings">Settings</string>
+    <string name="kategoriya_nomini_kiriting">Kategoriya nomini kiriting</string>
+    <string name="kategoriya">Kategoriya</string>
+    <string name="so_zlar">So\'zlar</string>
+    <string name="o_zgartirish">O\'zgartirish</string>
+    <string name="o_chirish">O\'chirish</string>
+    <string name="kategoriyani_ochirsangiz_unga_bog_liq_barcha_narsa_o_chadi">Kategoriyani ochirsangiz unga bog\'liq barcha narsa o\'chadi</string>
+    <string name="yo_q">Yo\'q</string>
+    <string name="ha">Ha</string>
+    <string name="so_z_qo_shish">So\'z qo\'shish</string>
+    <string name="tarjimasini_kiriting">Tarjimasini kiriting</string>
+    <string name="bekor_qilish">Bekor qilish</string>
+    <string name="saqlash">Saqlash</string>
+    <string name="noutbuk_kompyuter_yangicha_elektron_hisoblash_mashinasi">Noutbuk, kompyuter, yangicha elektron hisoblash mashinasi</string>
+</resources>
